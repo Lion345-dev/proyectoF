@@ -1,0 +1,30 @@
+# Environment variables and secrets
+.env
+*.env
+.env.local
+
+# API Keys and credentials
+gemini_api_key.txt
+api_keys.json
+
+# Python cache files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+venv/
+env/
+ENV/
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+
+# Streamlit secrets
+.streamlit/
+
+# Operating System files
+.DS_Store
+Thumbs.db
