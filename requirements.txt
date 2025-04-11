@@ -1,7 +1,11 @@
 streamlit
-python-dotenv
-google-generativeai
 pandas
 numpy
 yfinance
 plotly
+python-dotenv
+google-generativeai
+lxml
+html5lib
+beautifulsoup4
+mplfinance
